@@ -1,3 +1,17 @@
+.body h1 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+}
 
+.body button {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
 
 /*# sourceMappingURL=index.b2625c6b.css.map */
